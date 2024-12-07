@@ -2,7 +2,7 @@
 
 作者：肯尼斯.里科
 
-| ![cover_c-pointer](img/cover_c-and-pointer.png) | ![c-pointer-mm](img/C_and_Pointer.png){width=400 height=600} |
+| ![cover_c-pointer](img/cover_c-and-pointer.png) | <img src="img/C_and_Pointer.png" alt="c-pointer-mm width="400"/> |
 | --- | --- |
 
 ---
